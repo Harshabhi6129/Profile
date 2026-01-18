@@ -1,15 +1,20 @@
-<!-- Banner -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mahesh%20Kusampudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Harsha%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h3 align="center">
-  Software Engineer | Backend & Distributed Systems | Cloud-Native
+  Design • Build • Solve • Repeat
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  Software Engineer | Backend & Distributed Systems | Cloud & AI
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshabku/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:harshabku.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://harsha-portfolio-seven.vercel.app/#home"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
@@ -17,98 +22,149 @@
 
 ## 👋 About Me
 
-I’m a **Software Engineer** passionate about building **scalable, low-latency backend systems** and **cloud-native services** that operate reliably at scale.
+I’m a **software engineer** who enjoys turning complex ideas into **shippable, reliable systems**.
 
-- 🧠 Strong focus on **system design, performance engineering & observability**
-- ⚙️ Experienced with **microservices, event-driven architectures, and async workflows**
-- ☁️ Hands-on with **AWS, Docker, CI/CD, and distributed data systems**
-- 📈 Obsessed with **throughput, latency, and reliability improvements**
+I design **robust backend services**, build **event-driven architectures**, and wire **AI into real products**. I care deeply about **performance, clarity, and developer experience**. When tools don’t exist, I build them. When constraints appear, I design around them.
 
-> I enjoy turning ambiguous problems into production-grade systems.
+> Good software should feel like magic — fast, reliable, and a little bit bold.
+
+---
+
+## 🎓 Education
+
+**Master of Science in Computer Science**  
+University at Buffalo, The State University of New York  
+_Aug 2024 – Dec 2025_
+
+**Coursework:**  
+Distributed Systems, Cloud Computing, Operating Systems, Database Management,  
+Data Structures & Algorithms, OOP, Software Development, AI, ML, Deep Learning
+
+---
+
+## 💼 Experience
+
+### **Software Engineer — JPMorgan Chase**
+_New York, USA | May 2025 – Aug 2025_
+
+- Owned development of a **Java Spring Boot backend service**, diagnosing throughput bottlenecks across **REST APIs and PostgreSQL**
+- Deployed **Dockerized workloads on AWS ECS (Fargate)** with **ECR**, improving request throughput by **30%**
+- Designed **asynchronous workflows** using **Kafka and SQS**, reducing message reprocessing time and failure impact by **40%**
+- Implemented **Micrometer instrumentation** with **CloudWatch metrics and alarms** for retry tracing and observability
+- Integrated **Jenkins CI/CD pipelines**, IAM service roles, and standardized API contracts, reducing debugging cycles by **25%**
+
+---
+
+### **Software Developer — Bajaj FinServ**
+_Pune, India | Aug 2022 – Jul 2024_
+
+- Led end-to-end development of a **high-traffic onboarding platform** using **Spring Boot, MySQL, React (TypeScript)** serving **100K+ monthly users** with **99.9% availability**
+- Designed **Node.js + RabbitMQ + Redis** asynchronous services to decouple high-volume credit workflows, boosting peak throughput by **45%**
+- Optimized frontend and backend performance via **API aggregation, Redis caching, and React rendering**, reducing end-to-end latency by **35%**
+- Built an **exception routing and manual-review subsystem**, reducing senior reviewer load by **22%** while maintaining auditability
+- Shipped Dockerized services through **Jenkins CI/CD**, reducing post-release defects by **30%**
+
+---
+
+### **Software Development Intern — Wells Fargo**
+_Hyderabad, India | Apr 2021 – Sep 2021_
+
+- Built **Java Spring Boot REST APIs** with **Hibernate/JPA and Oracle SQL**, deployed on **AWS EC2**
+- Reduced update latency from **12s → <2s** through indexed queries and optimized persistence
+- Implemented **Kafka event processing** with DLQ retries, idempotency, and S3-backed reprocessing
+- Added **JUnit + Testcontainers** integration tests and Jenkins smoke tests, raising CI coverage to **90%**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+Java • Python • Go • JavaScript • C • C++ • Rust • Shell Scripting
 
-### **Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat&logo=apachekafka)
+### **Backend / Web**
+Spring Boot • Spring MVC • WebFlux • Node.js • Express • FastAPI • Django • Flask  
+React • TypeScript • WebSockets • REST • GraphQL
 
-### **Databases & Messaging**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
-![SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=flat&logo=amazonaws)
+### **Databases**
+PostgreSQL • MySQL • Oracle • SQL Server  
+MongoDB • Cassandra • Redis • DynamoDB • Neo4j
 
 ### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
+AWS (EC2, S3, SQS, CloudWatch, Lambda, Aurora, Redshift)  
+Azure (SQL DB, Data Factory, Blob Storage)  
+Docker • Kubernetes • Terraform • Jenkins • GitHub Actions
 
-### **Observability & Reliability**
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazonaws)
-![Micrometer](https://img.shields.io/badge/Micrometer-2C3E50?style=flat)
-![SRE](https://img.shields.io/badge/SRE-Principles-0A0A0A?style=flat)
+### **Messaging, Observability & Testing**
+Kafka • RabbitMQ • Prometheus • Grafana • OpenTelemetry  
+JUnit • Testcontainers • JMeter • Splunk
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 High-Throughput Backend Service (Java, AWS)
-- Built a **Spring Boot microservice** handling high-QPS REST APIs
-- Diagnosed **throughput bottlenecks** across application and PostgreSQL layers
-- Containerized using **Docker** and deployed on **AWS ECS (Fargate)**
-- Improved request throughput by **30%** through async processing & tuning
+### 🔹 **Job Genie — AI-Powered Talent Acquisition Platform**
+**React • FastAPI • TensorFlow • OpenAI • PostgreSQL • MongoDB**
 
-### 🔹 Event-Driven Messaging Platform
-- Designed **Kafka + SQS based async workflows**
-- Implemented retry handling, idempotency, and failure recovery
-- Added **Micrometer metrics + CloudWatch alarms**
-- Reduced message reprocessing time by **40%**
-
-### 🔹 CI/CD & Cloud Automation
-- Integrated **Jenkins pipelines** for automated build, test & deploy
-- Used **IAM roles, ECR, and ECS blue/green deployments**
-- Standardized API contracts to reduce debugging cycles
+- Built an AI-driven hiring platform that parses job descriptions and ranks top candidates using NLP
+- Reduced recruiter sourcing time by **80%**
+- Supports **800+ daily active users** with **99.9% uptime**
+- Fully containerized with **Docker** and deployed via **GitHub Actions CI/CD**
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 **No-Code NLP Model Training Platform**
+**FastAPI • PyTorch • HuggingFace • React • WebSockets**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+- Designed a no-code ML platform for dataset ingestion, model training, and live metrics
+- Reduced ML setup time from **hours to minutes**
+- Implemented async workflows and real-time training dashboards
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+---
+
+### 🔹 **PINTOS Operating System Enhancements**
+**C • x86 • Operating Systems**
+
+- Implemented **priority donation**, **MLFQ scheduling**, and synchronization primitives
+- Refactored **5K+ LOC**, improved multithreaded throughput by **30%**
+- Increased test coverage to **90%+**
+
+---
+
+## 📜 Certifications
+
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified Developer – Associate**
+- **AWS Certified Machine Learning Engineer – Associate**
+- **Microsoft Career Essentials in Generative AI**
+- **BCG X – Generative AI**
+- **Tata Group – Data Visualization**
 
 ---
 
 ## 🧠 What I Care About
 
-- Designing **systems that scale cleanly**
-- Writing **readable, maintainable backend code**
-- Observability as a **first-class citizen**
-- Learning from **real production failures**
+- Clean abstractions & maintainable systems
+- Performance, reliability, and observability
+- Event-driven & distributed architectures
+- Shipping software that *feels right* in production
+
+> My favorite pull requests remove more code than they add.
 
 ---
 
 ## 📫 Let’s Connect
 
-If you want to talk about **backend engineering, system design, or scalable architectures**, feel free to reach out.
+I’m open to **software engineering roles**, **research collaborations**, and **building ambitious ideas**.
+
+📧 harshabku.work@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshabku/)  
+🌐 [Portfolio](https://harsha-portfolio-seven.vercel.app/#home)
 
 <p align="center">
-  <b>“Build systems that survive success.”</b>
+  <b>Design with intent • Ship with confidence • Measure & iterate</b>
 </p>
 
-<!-- Footer -->
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
