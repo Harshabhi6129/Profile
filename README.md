@@ -1,7 +1,5 @@
 <!-- ===================== WAVY HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=230&section=header&text=Harsha%20Kusampudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=230&section=header&text=Harsha%20Kusampudi&fontSize=42&fontColor=ffffff" />
 
 <h3 align="center">
   Engineer • Builder • Explorer
