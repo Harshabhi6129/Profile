@@ -1,12 +1,6 @@
-<!-- ===================== BUBBLE HEADER ===================== -->
+<!-- ===================== WAVY HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blob&color=0:7F00FF,50:00C6FF,100:7F00FF&height=230&section=header" />
-</p>
-
-<h1 align="center">Harsha Kusampudi</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/gradient.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=230&section=header&text=Harsha%20Kusampudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
@@ -40,7 +34,7 @@
 
 ## 🧩 What I Build
 
-| 🫧 | |
+| 🌊 | |
 |---|---|
 | ⚙️ **Distributed Backends** | Event-driven, fault-tolerant services |
 | ☁️ **Cloud-Native Systems** | AWS, containers, CI/CD |
@@ -49,7 +43,7 @@
 
 ---
 
-## 🛠️ Tech Bubbles
+## 🛠️ Tech Tiles
 
 ### 👨‍💻 Languages
 <p>
@@ -80,8 +74,8 @@
 
 ## 🚀 Featured Projects
 
-| 🧪 Project | ⚡ What it is |
-|----------|---------------|
+| 🚀 Project | ⚡ What it is |
+|-----------|---------------|
 | **Job Genie** | AI-powered recruiter assistant |
 | **No-Code NLP Trainer** | Train NLP models without code |
 | **Prompt Refinement Lab** | Structured prompt workflows |
@@ -140,7 +134,7 @@
   <b>Design with intent • Ship with confidence • Measure & iterate</b>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ===================== WAVY FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blob&color=0:00C6FF,100:7F00FF&height=120&section=footer&animation=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer" />
 </p>
