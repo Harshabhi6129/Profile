@@ -1,17 +1,6 @@
 <!-- ===================== BUBBLE HEADER ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?
-type=blob
-&color=0:7F00FF,50:00C6FF,100:7F00FF
-&height=240
-&section=header
-&text=Harsha%20Kusampudi
-&fontSize=42
-&fontColor=ffffff
-&animation=gradient
-&fontAlignY=38" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=blob&color=0:7F00FF,50:00C6FF,100:7F00FF&height=240&section=header&text=Harsha%20Kusampudi&fontSize=42&fontColor=ffffff&animation=gradient&fontAlignY=38" />
 </p>
 
 <h3 align="center">
