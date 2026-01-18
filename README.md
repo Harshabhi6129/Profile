@@ -1,6 +1,17 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== BUBBLE HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=230&section=header&text=Harsha%20Kusampudi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?
+type=blob
+&color=0:7F00FF,50:00C6FF,100:7F00FF
+&height=240
+&section=header
+&text=Harsha%20Kusampudi
+&fontSize=42
+&fontColor=ffffff
+&animation=gradient
+&fontAlignY=38" 
+  />
 </p>
 
 <h3 align="center">
@@ -12,9 +23,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshabku/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:harshabku.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://harsha-portfolio-seven.vercel.app/#home"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://www.linkedin.com/in/harshabku/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:harshabku.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://harsha-portfolio-seven.vercel.app/#home">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 ---
@@ -28,16 +45,16 @@
 
 ## 🧩 What I Build
 
-| ⚙️ | |
+| 🫧 | |
 |---|---|
-| 🧠 **Distributed Backends** | High-throughput, event-driven, fault-tolerant services |
-| ☁️ **Cloud-Native Systems** | AWS, containers, CI/CD, infra-as-code |
-| 🤖 **AI Products** | NLP pipelines, LLM workflows, ML tooling |
-| 🧪 **Reliable Software** | Observability, testing, performance tuning |
+| ⚙️ **Distributed Backends** | Event-driven, fault-tolerant services |
+| ☁️ **Cloud-Native Systems** | AWS, containers, CI/CD |
+| 🤖 **AI Products** | NLP pipelines, LLM workflows |
+| 🧪 **Reliable Software** | Observability, testing, performance |
 
 ---
 
-## 🛠️ Tech Tiles
+## 🛠️ Tech Bubbles
 
 ### 👨‍💻 Languages
 <p>
@@ -66,26 +83,25 @@
 
 ---
 
-## 🚀 Featured Projects (Crisp)
+## 🚀 Featured Projects (Quick View)
 
-| Project | What it is | Stack |
-|-------|-----------|-------|
-| **Job Genie** | AI-powered recruiter assistant | React • FastAPI • TensorFlow • OpenAI |
-| **No-Code NLP Trainer** | Train NLP models without code | FastAPI • PyTorch • HuggingFace |
-| **Prompt Refinement Lab** | Structured prompt engineering | React • Node.js • MongoDB |
-| **PINTOS OS** | Kernel scheduling & sync primitives | C • x86 |
-| **Persona AI** | Memory-aware conversational agent | Python • ChromaDB • Streamlit |
-| **Virtual AI Mouse** | Gesture-based cursor control | OpenCV • DL |
-| **Next-Word Predictor** | LSTM/GRU language model | Python • Streamlit |
+| 🧪 Project | ⚡ What it is |
+|----------|---------------|
+| **Job Genie** | AI-powered recruiter assistant |
+| **No-Code NLP Trainer** | Train NLP models without code |
+| **Prompt Refinement Lab** | Structured prompt workflows |
+| **PINTOS OS** | Kernel scheduling & sync primitives |
+| **Persona AI** | Memory-aware conversational agent |
+| **Virtual AI Mouse** | Gesture-based cursor control |
 
-➡️ **More projects:** [Portfolio](https://harsha-portfolio-seven.vercel.app/#home)
+➡️ **Explore more:** [Portfolio](https://harsha-portfolio-seven.vercel.app/#home)
 
 ---
 
-## 🎓 Education & Focus
+## 🎓 Focus
 
 🎓 **M.S. Computer Science — University at Buffalo**  
-📚 Distributed Systems • Cloud • OS • AI • ML • DL
+📚 Distributed Systems • Cloud • OS • AI/ML
 
 ---
 
@@ -100,14 +116,14 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshabhi6129&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshabhi6129&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -115,7 +131,7 @@
 ## 💬 Quick Intro
 
 > I care about code quality, meaningful abstractions, and shipping.  
-> My favorite PRs are the ones that remove more code than they add.
+> My favorite pull requests are the ones that remove more code than they add.
 
 ---
 
@@ -131,5 +147,12 @@
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?
+type=blob
+&color=0:00C6FF,100:7F00FF
+&height=120
+&section=footer
+&animation=gradient" 
+  />
 </p>
